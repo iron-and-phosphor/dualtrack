@@ -1,0 +1,11 @@
+handleiding
+
+stap 1 linux. (arch linux or ubuntu)
+stap 2 instaleer opencv.
+stap 3 run het programma(track) en volg instructies die het programma(track) geeft.
+
+manual
+
+step 1 linux. (arch linux or ubuntu)
+step 2 install opencv.
+step 3 run the program(track) and follow the instructions provided by the program(track).
